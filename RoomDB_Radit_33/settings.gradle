@@ -1,0 +1,2 @@
+rootProject.name = "RoomDB_Radit_33"
+include ':app'
